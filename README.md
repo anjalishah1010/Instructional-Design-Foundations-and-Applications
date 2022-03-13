@@ -4,5 +4,6 @@
 
 On taking up the course I was able to accomplish following things: 
 - Describe the major concepts of instructional systems design 
-- Describe the major learning and instructional theories- Describe the process of instructional design and instructional design models
+- Describe the major learning and instructional theories
+- Describe the process of instructional design and instructional design models
 - Describe various analysis activities for instructional design
